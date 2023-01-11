@@ -21,7 +21,7 @@ The Exploratory Data Analysis section includes the following:
 * Geographical Analysis
 
 ### 3. Building Classifiers
-A classifier is built to predict the late delivery risk which will help the company in making better decisions and improving its supply chain.
+Different classifiers are built with appropriate feature selection to predict the late delivery risk which will help the company in making better decisions and improving its supply chain.
 
 
 ## Evaluation Metric
